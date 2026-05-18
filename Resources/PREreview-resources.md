@@ -75,7 +75,7 @@ Below, you can find the links to templates for the Open Reviewers workshop. Thes
   
   - [Module 3: Live Review templates](https://drive.google.com/drive/folders/1lucoGv7bMZ3ZitQpD-r6fEc_8p9SBdwl?usp=drive_link)
   
-Survey [pre-](https://docs.google.com/document/d/1A8U8jLUe-3m567rI4ZyxdUW0B3ypq5d8GEaI3dq2GhU/edit?usp=sharing) and [post-](https://docs.google.com/document/d/1w_7si28aETOBuDyeuu2WkcsYKOmUWTikKN2XqB96qIs/edit?usp=sharing) workshop
+Survey [pre-](https://docs.google.com/document/d/1A8U8jLUe-3m567rI4ZyxdUW0B3ypq5d8GEaI3dq2GhU/edit?usp=sharing) and [post-](https://docs.google.com/document/d/1rDKNg3Y8bvaohUlMSHsDx_H4rj_svMW0XaAZNmodJpk/edit?usp=sharing) workshop
 
 [Social media promotion template](https://www.canva.com/design/DAG_innxVlE/XFmJIqlN8vaMzml_Xy7L9g/view?utm_content=DAG_innxVlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (in Canva)
 
