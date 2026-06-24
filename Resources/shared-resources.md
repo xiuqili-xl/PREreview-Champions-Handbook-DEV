@@ -8,6 +8,7 @@ Peer Review:
  - [COPE Ethical guidelines for peer reviewers](https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)
  - [‘Editorial Peer Reviewers as Shepherds, Rather Than Gatekeepers’](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4319)
  - [Okune, Angela. (2019). Self-Review of Citational Practice. Zenodo](https://doi.org/10.5281/zenodo.3066861)
+ - [Access 2 Perspectives](https://access2perspectives.org/peer-review-resources/)
 
 Facilitation & Events:
 
