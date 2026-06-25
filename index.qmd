@@ -8,7 +8,9 @@ license: "Add license info"
 
 <br/>
 
+::: {style="color: red;"}
 **🖋️ TEXT FROM README.md**
+:::
 
 Thank you for volunteering to be a PREreview Champion! We are thrilled to be working with you and hope that you also gain as much from being a member of our 2026 Champions Program cohort as we do from your help in engaging the scholarly research community in open, preprint peer review! 
 
@@ -16,9 +18,13 @@ The Champions Handbook is designed to be a helpful guide to ensure that you have
 
 <br/>
 
+
+
 ## The PREreview Champions Program
 
+::: {style="color: red;"}
 **🖋️ TEXT FROM program-description.md**
+:::
 
 Three early-career, female scientists—Daniela Saderi, Monica Granados, and Samantha Hindle—co-founded PREreview to address the lack of diversity and transparency within scholarly peer review and to empower marginalized researchers to engage in the open review of preprints. The PREreview Champions Program, launched in 2024, aims to empower individuals who share this mission with the knowledge, skills, and resources to train and engage others to participate in the open peer review of preprints.   
 

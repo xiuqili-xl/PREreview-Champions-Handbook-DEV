@@ -4,7 +4,9 @@ title: "Program Expectations"
 
 <br/>
 
+::: {style="color: red;"}
 **🖋️ TEXT FROM program-description.md**
+::: 
 
 ## Expectations of PREreview Champions    
 

@@ -4,9 +4,10 @@ title: "The Champions Mentor Program"
 
 <br/>
 
+::: {style="color: red;"}
 **🖋️ TEXT FROM program-description.md**
+:::
 
-## The PREreview Champions Mentor Program 
 
 Each 2026 PREreview Champion has been matched with a volunteer Mentor –someone who successfully completed this program in the past. Your mentor will help you discover and answer the questions you need to address to imagine, design, build, and facilitate your final activity or project.
 You and your Mentor will have an introductory meeting and three check-in meetings about your activity or project once you complete training, as well as a debrief meeting at the end of the program.   
