@@ -1,1 +1,27 @@
-Thank you for volunteering to be a PREreview Champion! We are thrilled to be working with you and hope that you also gain as much from being a member of our 2026 Champions Program cohort as we do from your help in engaging the scholarly research community in open, preprint peer review! The Champions Handbook is designed to be a helpful guide to ensure that you have what you need to succeed in your role as a PREreview Champion. It includes information about the mission and work of PREreview, the Champions’ Program, the training workshops, templates, and helpful links to find all the information you might need.
+---
+title: "PREreview Champions' Handbook"
+toc: false
+citation: false
+copyright: "Add copyright info"
+license: "Add license info"
+---
+
+<br/>
+
+**[TEXT FROM README.md]**
+
+Thank you for volunteering to be a PREreview Champion! We are thrilled to be working with you and hope that you also gain as much from being a member of our 2026 Champions Program cohort as we do from your help in engaging the scholarly research community in open, preprint peer review! 
+
+The Champions Handbook is designed to be a helpful guide to ensure that you have what you need to succeed in your role as a PREreview Champion. It includes information about the mission and work of PREreview, the Champions’ Program, the training workshops, templates, and helpful links to find all the information you might need.
+
+<br/>
+
+## The PREreview Champions Program
+
+**[TEXT FROM program-description.md]**
+
+Three early-career, female scientists—Daniela Saderi, Monica Granados, and Samantha Hindle—co-founded PREreview to address the lack of diversity and transparency within scholarly peer review and to empower marginalized researchers to engage in the open review of preprints. The PREreview Champions Program, launched in 2024, aims to empower individuals who share this mission with the knowledge, skills, and resources to train and engage others to participate in the open peer review of preprints.   
+
+The program spans 12 months and includes selection, onboarding, training, engagement activities, and final reporting. Champions receive the PREreview Open Reviewers Workshop with a focus on how to adapt the materials to their own contexts and train others within their local communities. The workshop series provides practical guidance on writing reviews alongside how to address issues of bias and systemic oppression within peer review, and general facilitation and event organization guidance. In the six months following the training, Champions complete at least one engagement activity, such as leading workshops, delivering talks, organizing collaborative Live Reviews, or mentoring peers.   
+
+Alongside this handbook with guidelines, templates, and resources, you also have access to a shared drive for collaboration, as well as a dedicated Slack channel, and we will hold regular cohort catch-up calls so that you have the opportunity to get to know your fellow Champions, ask questions, collaborate, solve challenges, and celebrate successes. 

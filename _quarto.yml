@@ -6,9 +6,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "The Champions' Program" 
-      - href: program-description.qmd
-        text: "Program Description" 
+        text: "Home" 
+      - text: "PREreview Champion Program"
+        menu: 
+          - subpages-champions-program/01-code-of-conduct.qmd.qmd
+          - subpages-champions-program/02-program-expectations.qmd
+          - subpages-champions-program/03-mentor-program.qmd
       - href: about-PREreview.qmd
         text: "About PREreview" 
       - href: how-to-contribute.qmd
@@ -21,6 +24,6 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - united
     css: styles.css
     toc: true
