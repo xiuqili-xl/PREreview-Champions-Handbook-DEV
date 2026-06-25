@@ -7,11 +7,21 @@ website:
     left:
       - href: index.qmd
         text: "Home" 
-      - text: "PREreview Champion Program"
+      - text: "About the Champion Program"
         menu: 
-          - subpages-champions-program/01-code-of-conduct.qmd.qmd
+          - subpages-champions-program/01-code-of-conduct.qmd
           - subpages-champions-program/02-program-expectations.qmd
           - subpages-champions-program/03-mentor-program.qmd
+      - text: "Resources"
+        menu: 
+          - subpages-resources/02-PREreview-resources.qmd
+          - subpages-resources/03-event-planning-checklist.qmd
+          - subpages-resources/04-live-review.qmd
+          - subpages-resources/05-PREreview-clubs.qmd
+          - subpages-resources/06-using-the-PREreview.org-website.qmd
+          - subpages-resources/07-using-zoom.qmd
+          - subpages-resources/08-using-Slack.qmd
+          - subpages-resources/09-shared-resources.qmd
       - href: about-PREreview.qmd
         text: "About PREreview" 
       - href: how-to-contribute.qmd
@@ -24,6 +34,6 @@ website:
 format:
   html:
     theme:
-      - united
+      - spacelab
     css: styles.css
     toc: true

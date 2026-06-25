@@ -1,4 +1,8 @@
-# Using Slack
+---
+title: "Using Slack"
+---
+
+<br/>
 
 At PREreview, we regularly use [Slack](https://slack.com/) to communicate internally and also externally with our community members. In Slack, conversations are organized into channels depending on the topic or group of people involved. We have a private [#prereview-champions-2026](https://prereviewcommunity.slack.com/archives/C0A8747507J) channel that you have been added to upon joining the Champions Program. We encourage you to use this channel to post questions to the team, get feedback on your plans, collaborate, problem-solve, or just chat about things that are going on in your life. 
 

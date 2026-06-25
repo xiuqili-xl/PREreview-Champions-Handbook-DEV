@@ -1,4 +1,7 @@
-# Event planning checklist 
+---
+title: "Event planning checklist "
+---
+
 
 ## 3 months before the event
   - Decide location (online or in-person)

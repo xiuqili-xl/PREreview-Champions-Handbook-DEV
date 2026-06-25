@@ -1,10 +1,10 @@
 ---
-title: "Expectations"
+title: "Program Expectations"
 ---
 
 <br/>
 
-**[TEXT FROM program-description.md]**
+**🖋️ TEXT FROM program-description.md**
 
 ## Expectations of PREreview Champions    
 

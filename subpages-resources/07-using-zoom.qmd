@@ -1,4 +1,8 @@
-# Using Zoom (or other video conferencing software)
+---
+title: "Using Zoom (or other video conferencing software)"
+---
+
+<br/>
 
 Zoom is a fairly intuitive and simple tool to use. That said, here are some tips based on what we have learned over the years:
 

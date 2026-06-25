@@ -1,4 +1,6 @@
-## PREreview Clubs
+---
+title: "PREreview Clubs"
+---
 
 PREreview Clubs are collaborative preprint reviewing groups around a shared affiliation, affinity, interest, location, or any other common cause. Club members work together to give preprint authors timely, constructive peer feedback (sometimes via a format like our Live Reviews).
 
