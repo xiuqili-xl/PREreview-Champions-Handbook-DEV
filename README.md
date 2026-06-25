@@ -1,8 +1,0 @@
-# PREreview Champions' Handbook 
-
-The source code for the handbook.
-
-----
-Thank you for volunteering to be a PREreview Champion! We are thrilled to be working with you and hope that you also gain as much from being a member of our 2026 Champions Program cohort as we do from your help in engaging the scholarly research community in open, preprint peer review! The Champions Handbook is designed to be a helpful guide to ensure that you have what you need to succeed in your role as a PREreview Champion. It includes information about the mission and work of PREreview, the Champions’ Program, the training workshops, templates, and helpful links to find all the information you might need.
-
-We will keep this handbook updated, and we are open to any suggestions for extra things to include. So if you have any suggestions for improvements, please email them to the PREreview team at champions@prereview.org.
