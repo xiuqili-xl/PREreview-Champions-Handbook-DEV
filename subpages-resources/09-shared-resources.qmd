@@ -4,34 +4,50 @@ title: "Shared Resources"
 
 <br/>
 
-## Shared Resources - More coming soon!
+::: {style="color: red;"}
+**🖋️ Turned "Peer Review", "Facilitation & Events", and "DEIA" into headings**
+:::
+
+
+_**More coming soon!**_
+
 Please feel free to contribute to this list with links to other resources you think would be useful to your fellow Champions. Check our [Contributors](https://github.com/PREreview/champions-handbook/blob/main/how-to-contribute.md) section for more details.
 
-Peer Review:
+<br/>
 
- - [EASE Peer Review toolkit](https://ease.org.uk/communities/peer-review-committee/peer-review-toolkit/)
- - [PLOS Peer Review Center](https://plos.org/resources/for-reviewers/)
- - [COPE Ethical guidelines for peer reviewers](https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)
- - [‘Editorial Peer Reviewers as Shepherds, Rather Than Gatekeepers’](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4319)
- - [Okune, Angela. (2019). Self-Review of Citational Practice. Zenodo](https://doi.org/10.5281/zenodo.3066861)
- - [Access 2 Perspectives](https://access2perspectives.org/peer-review-resources/)
+## Peer Review
 
-Facilitation & Events:
+- [EASE Peer Review toolkit](https://ease.org.uk/communities/peer-review-committee/peer-review-toolkit/)
+- [PLOS Peer Review Center](https://plos.org/resources/for-reviewers/)
+- [COPE Ethical guidelines for peer reviewers](https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)
+- [‘Editorial Peer Reviewers as Shepherds, Rather Than Gatekeepers’](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4319)
+- [Okune, Angela. (2019). Self-Review of Citational Practice. Zenodo](https://doi.org/10.5281/zenodo.3066861)
+- [Access 2 Perspectives](https://access2perspectives.org/peer-review-resources/)
 
- - [Open Peer Reviewers in Africa Workshop Trainer Guide](https://doi.org/10.5281/zenodo.7534278)
- - [Sansing, Chad. (2020). 5 Tips For Designing Engaging, Inclusive Sessions](https://foundation.mozilla.org/en/blog/5-tips-designing-engaging-inclusive-sessions/)
- - [Aurora, Valerie, and Gardiner, Mary. How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/resources/code-of-conduct-book/#book)
- - [Ahenkorah, Elise (2020). “Safe and Brave Spaces Don’t Work (and What You Can Do Instead)”](https://medium.com/@elise.k.ahen/safe-and-brave-spaces-dont-work-and-what-you-can-do-instead-f265aa339aff)
- - [Harvard. Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246)
- - [Makled, Laila R. (2023). Impactful Gathering and Facilitation Resource Guide](https://outtherecommunication.net/blog/eventplanningworkbook)
- - [Makled, Laila R. (2023). The basics of an impactful agenda: structure & timing](https://outtherecommunication.net/blog/the-basics-of-an-impactful-agenda-structure-and-timing)
- - [The Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual)
- - [CSCCE. Organizing Community Events](https://www.cscce.org/resources/organizing-community-events/)
- - [The Carpentries. Recommendations for Teaching Carpentries Workshops Online](https://docs.carpentries.org/resources/workshops/resources_for_online_workshops.html)
- - [Delipalta, A., & Herterich, P. (2021). Planning hybrid events](https://doi.org/10.5281/zenodo.5541669)
 
-DEIA: 
+<br/>
 
- - [DEIA and Doing the Right Thing](https://scholarlykitchen.sspnet.org/2025/02/11/deia-and-doing-the-right-thing)
- - [Open Science and Open Source only with Diversity, Equity, Inclusion, and Accessibility](https://ropensci.org/blog/2025/02/05/no-science-without-deia)
- - [C4 DISC Toolkits for Equity](https://c4disc.org/toolkits-for-equity)
+## Facilitation & Events
+
+- [Open Peer Reviewers in Africa Workshop Trainer Guide](https://doi.org/10.5281/zenodo.7534278)
+- [Sansing, Chad. (2020). 5 Tips For Designing Engaging, Inclusive Sessions](https://foundation.mozilla.org/en/blog/5-tips-designing-engaging-inclusive-sessions/)
+- [Aurora, Valerie, and Gardiner, Mary. How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/resources/code-of-conduct-book/#book)
+- [Ahenkorah, Elise (2020). “Safe and Brave Spaces Don’t Work (and What You Can Do Instead)”](https://medium.com/@elise.k.ahen/safe-and-brave-spaces-dont-work-and-what-you-can-do-instead-f265aa339aff)
+- [Harvard. Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246)
+- [Makled, Laila R. (2023). Impactful Gathering and Facilitation Resource Guide](https://outtherecommunication.net/blog/eventplanningworkbook)
+- [Makled, Laila R. (2023). The basics of an impactful agenda: structure & timing](https://outtherecommunication.net/blog/the-basics-of-an-impactful-agenda-structure-and-timing)
+- [The Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual)
+- [CSCCE. Organizing Community Events](https://www.cscce.org/resources/organizing-community-events/)
+- [The Carpentries. Recommendations for Teaching Carpentries Workshops Online](https://docs.carpentries.org/resources/workshops/resources_for_online_workshops.html)
+- [Delipalta, A., & Herterich, P. (2021). Planning hybrid events](https://doi.org/10.5281/zenodo.5541669)
+
+
+<br/>
+
+## DEIA
+
+- [DEIA and Doing the Right Thing](https://scholarlykitchen.sspnet.org/2025/02/11/deia-and-doing-the-right-thing)
+- [Open Science and Open Source only with Diversity, Equity, Inclusion, and Accessibility](https://ropensci.org/blog/2025/02/05/no-science-without-deia)
+- [C4 DISC Toolkits for Equity](https://c4disc.org/toolkits-for-equity)
+
+<br/>

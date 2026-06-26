@@ -1,4 +1,8 @@
-# About PREreview
+---
+title: "About PREreview"
+---
+
+<br/>
 
 ## Mission
 PREreview's mission is to bring more equity and transparency to scholarly peer review by supporting and empowering communities of researchers, particularly those at early stages of their career (ECRs) and historically excluded, to review preprints in a process that is rewarding to them.  
@@ -14,6 +18,9 @@ In taking these vital steps, PREreview envisions a future in which every researc
 **Our values** are integral to *how* and *why* we do this work. As a part of our commitment to transparency and equity, we share our values below.
 
 Read more about our commitment to Equity, Diversity, and Inclusion [here](https://prereview.org/edia-statement).
+
+
+<br/>
 
 ## Values
 
@@ -36,6 +43,9 @@ We provide opportunities for researchers to create **meaningful collaborations a
 
 We **partner with like-minded organizations** to organize events, run programs, and work together on open infrastructure to create rewarding preprint review experiences for researchers.
 
+
+<br/>
+
 ## Our Team
 
 <img src="https://github.com/PREreview/champions-handbook/blob/36cbde48c7868e5efbda724a2e08aa568fe0cf8d/images/PREreview%20Team%20and%20AC%202026.png" width="820" height="820">
@@ -48,12 +58,17 @@ We receive technical support from Daniel Haarhoff, Software Engineer at eLife, a
 We also rely on the wise advice and support of an Advisory Committee (AC), which currently includes Monica Granados (PREreview co-founder, AC Co-chair), Samantha Hindle (PREreview co-founder, AC Secretary), Christopher Steven Marcum, Aurelia Munene, Lamis Yahia Elkheir, Malvika Sharan and Kirstie Whitaker.
 Full bios can be found on our [webpage](https://prereview.org/people)
 
+
+<br/>
+
 ## How we are supported
 
 PREreview operates as a non-profit as a fiscally sponsored project of [Code for Science & Society (CS&S)](https://codeforscience.org/). CS&S is a 501(c)(3) nonprofit registered in the United States. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in building relationships with funding agencies, connecting us with the larger public interest tech community, as well as in hiring and management of staff.
 
 ### Funders and sponsors
 <img src="https://github.com/PREreview/champions-handbook/blob/main/images/sponsors.png" width="600" height="600">
+
+<br/>
 
 ## Other Useful Links
 
@@ -63,15 +78,5 @@ PREreview operates as a non-profit as a fiscally sponsored project of [Code for 
  - Sign up for our [bi-monthly newsletter](https://bit.ly/PREreview-newsletter) to be kept in the loop about our big developments and opportunities.
  - You can also follow us on social media on [LinkedIn](https://www.linkedin.com/company/prereview), [Mastodon](https://mas.to/@prereview), and [BlueSky](https://bsky.app/profile/prereview.bsky.social), and subscribe to our [YouTube channel](https://www.youtube.com/@Prereview). 
 
-
-
-
-
-
-
-
-
-
-
-
+<br/>
 

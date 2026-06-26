@@ -2,8 +2,8 @@
 title: "PREreview Champions' Handbook"
 toc: false
 citation: false
-copyright: "Add copyright info"
-license: "Add license info"
+copyright: "Add copyright info in yaml of index.qmd"
+license: "Add license info in yaml of index.qmd"
 ---
 
 <br/>
@@ -31,3 +31,5 @@ Three early-career, female scientists—Daniela Saderi, Monica Granados, and Sam
 The program spans 12 months and includes selection, onboarding, training, engagement activities, and final reporting. Champions receive the PREreview Open Reviewers Workshop with a focus on how to adapt the materials to their own contexts and train others within their local communities. The workshop series provides practical guidance on writing reviews alongside how to address issues of bias and systemic oppression within peer review, and general facilitation and event organization guidance. In the six months following the training, Champions complete at least one engagement activity, such as leading workshops, delivering talks, organizing collaborative Live Reviews, or mentoring peers.   
 
 Alongside this handbook with guidelines, templates, and resources, you also have access to a shared drive for collaboration, as well as a dedicated Slack channel, and we will hold regular cohort catch-up calls so that you have the opportunity to get to know your fellow Champions, ask questions, collaborate, solve challenges, and celebrate successes. 
+
+<br/>

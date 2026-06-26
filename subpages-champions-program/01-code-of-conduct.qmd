@@ -10,7 +10,10 @@ title: "Participation Guidelines & Code of Conduct"
 
 In the interest of fostering an open and brave environment we, as leadership, contributors, and maintainers, pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of background, family status, gender, gender identity, or expression, marital status, sex, sexual orientation, native language, age, ability, race and/or ethnicity, caste, national origin, socioeconomic status, religion, geographic location, and any other dimension of diversity.
 
+<br/>
+
 ## Expected behaviors
+
 Example behaviors of PREreview Champions and all PREreview community members include:
 
 - Being respectful of differing viewpoints and experiences
@@ -24,6 +27,8 @@ Example behaviors of PREreview Champions and all PREreview community members inc
 - Maintaining kindness, professionalism, and integrity in all of your interactions
   
 Particularly in the role of PREreview Champion, you act as a representative of PREreview, and your actions influence others to behave and respond in ways that are valuable and appropriate for our shared outcomes. Hold yourself and others accountable for inclusive behaviors. These behaviors are expected regardless of whether the interaction occurs within our Slack Community, training workshops, via email, or any other online or in-person interaction as part of the PREreview community.   
+
+<br/>
 
 ## Prohibited behaviors
 Examples of unacceptable behaviors by participants include, but are not limited to:
@@ -46,4 +51,4 @@ If you email us, please use **“Code of Conduct Violation Report”** as your s
 
 All complaints will be reviewed and investigated, and will result in a response determined by the **PREreview Safety Team**. The PREreview Safety Team consists of PREreview’s Executive Director, Head of Community, Head of Product, and Head of Technology. To view the complete response protocol, please refer to our [Code of Conduct](https://prereview.org/code-of-conduct) page on the PREreview website. Please note that Code of Conduct violations may result in you no longer being allowed to participate in the PREreview Champions Program.
 
-
+<br/>

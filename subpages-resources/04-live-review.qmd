@@ -2,20 +2,29 @@
 title: "Live Reviews"
 ---
 
+<br/>
+
 Live Reviews are topic-centered, interactive preprint review calls via a video conference tool such as Zoom. Outputs from Live Reviews can be used to improve a manuscript or be integrated into journal review workflows. 
 
 Core to PREreview's mission is increasing diversity, equity, and inclusion in scholarly peer review. Live Reviews allow structured and constructive discussions following [guided discussion questions](https://zenodo.org/records/10207527) that encourage diverse methods of participation.
 
+
+<br/>
+
 ## Why Live Reviews?
-  - To support and empower the voices of all the experts, particularly those who have historically been excluded from the peer review process and those who are in the beginning stages of their research careers
-  - To showcase a kinder, more collaborative, joyful and transparent way to provide constructive, clear and actionable feedback to preprint authors
-  - To deliver this feedback to the authors and the communities who benefit from it in a timely manner
-    
+- To support and empower the voices of all the experts, particularly those who have historically been excluded from the peer review process and those who are in the beginning stages of their research careers
+- To showcase a kinder, more collaborative, joyful and transparent way to provide constructive, clear and actionable feedback to preprint authors
+- To deliver this feedback to the authors and the communities who benefit from it in a timely manner
+
+<br/>
+
 ## Who participates?
   - Two facilitators from our team with experience in hosting Live Reviews
   - A topic expert (optional) to guide participants through a constructive discussion
   - Preprint authors (optional) to gather live feedback on their preprint
   - Researchers and experts who join from all over the world ready to collaborate on improving a preprint, build their network, and meet other experts
+
+<br/>
 
 ## What are the event outputs?
 After the call, our team works with a subset of Live Review participants who contributed feedback during the call and volunteered extra time to compile the notes from the call into a PREreview that is then published on [PREreview.org](https://prereview.org/reviews) approximately two weeks after the call.
@@ -24,10 +33,14 @@ These participants have the option to be listed as review authors using either t
 
 Here are all the [reviews published thus far as outputs of Live Review events](https://zenodo.org/communities/prereview-reviews/records?q=&f=resource_type%3Apublication%2Binner%3Apublication-peerreview&f=subject%3ALive%20Review&l=list&p=1&s=10&sort=newest), including those run in collaboration with JMIR Publications which are also listed in the [JMIR Publications Club](https://prereview.org/clubs/jmir-publications).
 
+<br/>
+
 ## Interested in PREreview Live Reviews?
 To request our support to run a Live Review or to discuss how they can be integrated into your workflow, email us at community@prereview.org.
 
 Current and past collaborations to host Live Reviews of preprints submitted to a journal include contracting work with [JMIR Publications](https://www.jmir.org/announcements/296) and [Current Research in Neurobiology](https://content.prereview.org/prereview-and-crneur-pilot), respectively.
+
+<br/>
 
 ## FAQs
 ### Who can join these events?

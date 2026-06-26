@@ -15,3 +15,5 @@ You and your Mentor will have an introductory meeting and three check-in meeting
 You may also use email or Slack (or another preferred method) to communicate asynchronously with your Mentor throughout the program. You will be able to offer feedback via a survey at the end of the program.   
 
 If an issue comes up sooner than that, or you need some kind of help, reach out to chad@prereview.org or to report@prereview.org for Code of Conduct issues.
+
+<br/>
