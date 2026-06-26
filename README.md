@@ -4,6 +4,8 @@ This repository contains the source files for [a Quarto site mock-up of the PREr
 
 This repository is a fork of [`PREreview/champions-handbook`](https://github.com/PREreview/champions-handbook). It is being used to explore what the handbook could look like as a Quarto website, with reader-facing handbook content separated from source code for maintainers and contributors.
 
+Content changes (including section reordering) are indicated with 🖋️.
+
 Note, this README is written for maintainers and contributors working on the website source.
 
 
