@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: "Home" 
-      - text: "About the Champion Program"
+      - text: "About the Champions Program"
         menu: 
           - subpages-champions-program/01-code-of-conduct.qmd
           - subpages-champions-program/02-program-expectations.qmd
