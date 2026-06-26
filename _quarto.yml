@@ -29,6 +29,14 @@ website:
     right:
       - icon: github
         href: https://github.com/xiuqili-xl/PREreview-Champions-Handbook-DEV
+      - icon: linkedin
+        href: https://www.linkedin.com/company/prereview
+      - icon: mastodon
+        href: https://mas.to/@prereview       
+      - icon: bluesky
+        href: https://bsky.app/profile/prereview.bsky.social    
+      - icon: youtube
+        href: https://www.youtube.com/@Prereview   
 
 
 format:
