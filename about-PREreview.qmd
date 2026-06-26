@@ -4,6 +4,11 @@ title: "About PREreview"
 
 <br/>
 
+::: {style="color: red;"}
+**🖋️ Changed to relative path for the embedded image. Added brief alt-text**
+:::
+
+
 ## Mission
 PREreview's mission is to bring more equity and transparency to scholarly peer review by supporting and empowering communities of researchers, particularly those at early stages of their career (ECRs) and historically excluded, to review preprints in a process that is rewarding to them.  
 
@@ -48,8 +53,7 @@ We **partner with like-minded organizations** to organize events, run programs, 
 
 ## Our Team
 
-<img src="https://github.com/PREreview/champions-handbook/blob/36cbde48c7868e5efbda724a2e08aa568fe0cf8d/images/PREreview%20Team%20and%20AC%202026.png" width="820" height="820">
-
+![Headshots of the PREreview Team and Advisory Committee](images/PREreview-Team-and-AC-2026.png)
 
 Our core team is currently composed of five full-time employees: Daniela Saderi, Executive Director & Co-Founder, Chad Sansing, Head of Product, Vanessa Fairhurst, Head of Community, Chris Wilkinson, Head of Technology, and Pia Tavella, Communications and Engagement Officer. 
 
@@ -66,7 +70,8 @@ Full bios can be found on our [webpage](https://prereview.org/people)
 PREreview operates as a non-profit as a fiscally sponsored project of [Code for Science & Society (CS&S)](https://codeforscience.org/). CS&S is a 501(c)(3) nonprofit registered in the United States. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in building relationships with funding agencies, connecting us with the larger public interest tech community, as well as in hiring and management of staff.
 
 ### Funders and sponsors
-<img src="https://github.com/PREreview/champions-handbook/blob/main/images/sponsors.png" width="600" height="600">
+
+![Funders and sponsors of PREreview](images/sponsors.png)
 
 <br/>
 

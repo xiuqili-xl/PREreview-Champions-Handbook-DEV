@@ -2,6 +2,11 @@
 title: "Using the PREreview.org website"
 ---
 
+::: {style="color: red;"}
+**🖋️ Changed to relative path for the embedded image. Added brief alt-text**
+:::
+
+
 <br/>
 
 [PREreview.org](http://PREreview.org) is the home of open, preprint reviews. At PREreview, we aim to establish a researcher-driven, participatory peer-review workflow, emphasizing the evaluation of expertise based on the quality of reviews rather than the identity of the reviewer or the prestige of their affiliated research institution. We are creating a future in which every researcher is empowered with the skills to recognize and fight bias, and is welcomed into a peer review culture where constructive feedback is expected and rewarded.
@@ -59,6 +64,10 @@ If you or someone in your community uses a preprint server that is not listed an
 <br/>
 
 ## Getting started with reviewing preprints
+![Flow chart showing how PREreview works](../images/how-prereview-works-1.png)
+
+
+
 ![](https://github.com/PREreview/champions-handbook/blob/main/images/how-prereview-works-1.png)
 
 If you have a preprint in mind you would like to review, you can simply click ['Review a preprint'](https://prereview.org/review-a-preprint) and you will then be taken to a page asking you for the DOI of the preprint. Once you have entered that, it will ask you to log in or create an account if you have not already done so. Login is done via [ORCID](https://orcid.org/). If you do not have a preprint in mind, but you wish to create a PREreview account in advance, you can click on the 'Log in' button on the top right to create your account.
