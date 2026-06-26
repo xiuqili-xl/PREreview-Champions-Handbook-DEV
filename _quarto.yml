@@ -34,6 +34,7 @@ website:
 format:
   html:
     theme:
-      - spacelab
+      - united
     css: styles.css
     toc: true
+    page-layout: full
