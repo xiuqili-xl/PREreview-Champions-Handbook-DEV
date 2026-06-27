@@ -19,7 +19,7 @@ Below, you can find a list of preprint servers that PREreview can easily pull pu
 
 If you are searching for a preprint to review, please visit one of the servers listed below that's relevant to you! We can easily pull public metadata from all of these servers and frequently add more in response to user requests.
 
-Alternatively, you can also check out our recent [Review Requests](https://prereview.org/review-requests) on the PREreview website and also in our [#request-a-review] channel(https://prereviewcommunity.slack.com/archives/C05B95LEN5C) on the PREreview Community Slack to view author requests for feedback.
+Alternatively, you can also check out our recent [Review Requests](https://prereview.org/review-requests) on the PREreview website and also in our [#request-a-review channel](https://prereviewcommunity.slack.com/archives/C05B95LEN5C) on the PREreview Community Slack to view author requests for feedback.
 
 You can also visit [Sciety](https://sciety.org/) to find curated lists of preprints you might like to review, especially through Sciety's [groups](https://sciety.org/groups) and [lists](https://sciety.org/lists). 
 
@@ -66,9 +66,6 @@ If you or someone in your community uses a preprint server that is not listed an
 ## Getting started with reviewing preprints
 ![Flow chart showing how PREreview works](../images/how-prereview-works-1.png)
 
-
-
-![](https://github.com/PREreview/champions-handbook/blob/main/images/how-prereview-works-1.png)
 
 If you have a preprint in mind you would like to review, you can simply click ['Review a preprint'](https://prereview.org/review-a-preprint) and you will then be taken to a page asking you for the DOI of the preprint. Once you have entered that, it will ask you to log in or create an account if you have not already done so. Login is done via [ORCID](https://orcid.org/). If you do not have a preprint in mind, but you wish to create a PREreview account in advance, you can click on the 'Log in' button on the top right to create your account.
 
